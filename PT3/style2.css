@@ -1,0 +1,112 @@
+.child1{
+  display: inline-block;
+  
+
+}
+.g{
+  padding: 10px;
+}
+.father{
+  
+  border-radius: 10px;
+  background-color: white;
+  width: px;
+  
+  display: inline-block;
+}
+.seventeen{
+  display: inline-block;
+  margin-left: 20px;
+  width: 920px;
+  height: 372px;
+  border-radius: 10px;
+  background-color: white;
+}
+.eighteen{
+  display: inline-block;
+}
+.nineteen{
+  border-radius: 10px;
+  background-color: white;
+  height: 184px;
+  width: 218px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+.twenty{
+  height: 184px;
+  width: 218px;
+  border-radius: 10px;
+  background-color: white;
+  margin-left: 10px;
+}
+.mother{
+  width: 100%;
+  height: 50px;
+  background-color: white;
+  
+}
+body{
+  background-color: #f0f2f5;
+}
+.one{
+  display: inline-block;
+  padding-left: 10px;
+}
+.two{
+  display: inline-block;
+  padding-left: 100px;
+}
+.three{
+  display: inline-block;
+  padding-left: 10px;
+}
+input[type=text], select {
+    background-color: #f0f2f5;
+    width: 500px;
+    
+    padding-right: 16px;
+    
+    padding-left: 16px;
+    
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(248, 244, 244);
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+  }
+
+  
+::-webkit-input-placeholder{
+    font-size:medium;
+}
+button{
+  border: 1px solid#c7c7cd;
+  
+  
+}
+
+.button1{
+      background-color: orange;
+    border: ipx solid black;
+    
+    color: white;
+    padding: 5px;
+    
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+ }
+ .four{
+   display: inline-block;
+   padding-left: 10px;
+ }
+ .five{
+  display: inline-block;
+  padding-left: 10px;
+ }

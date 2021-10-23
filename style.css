@@ -1,0 +1,16 @@
+h1{
+    font-size: 52px;
+}
+p{
+    color: red;
+}
+div{
+    background-color: saddlebrown;
+}
+section{
+    background-color: blue;
+    color: burlywood;
+}
+body{
+    background-color: chartreuse;
+}

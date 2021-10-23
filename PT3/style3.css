@@ -1,0 +1,52 @@
+.greetings{
+    background-color: yellow;
+    height: 60px;
+    /* padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-bottom: 50px; */
+    /* padding: 50px; */
+    padding: 5px 20px 100px 100px;
+    border-radius: 20px;
+}
+
+.detail{
+    margin-top: 10px;
+    margin-left: 30px;
+    background-color: violet;
+}
+
+.country{
+    background-color: tomato;
+    /* margin-right: 30px; */
+    /* margin-top: 20px; */
+}
+
+.city{
+    background-color: teal;
+    margin-left: 30px;
+}
+
+.box{
+    background-color: black;
+}
+
+.boxes{
+   color: brown;
+}
+
+.boxA{
+    background-color: purple;
+    display: inline-block;
+
+}
+.boxB{
+    background-color: blue;
+    display: inline-block;
+}
+
+.content{
+    margin: 10px;
+    background-color: chocolate;
+    border: 3px solid pink ;
+}

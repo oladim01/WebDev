@@ -1,0 +1,105 @@
+body{
+    background-color:#f0f2f5;
+}
+.mother{
+    
+    margin-top: 100px;
+    
+    height: 600px;
+    
+    padding-top: 100px;
+    padding-left: 200px;
+    display: inline-block;
+}  
+
+input[type=text], select {
+    background-color: #f0f2f5;
+    width: 330px;
+    padding-top: 14px;
+    padding-right: 16px;
+    padding-bottom: 14px;
+    padding-left: 16px;
+    
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+  }
+::-webkit-input-placeholder{
+    font-size:medium;
+}
+  input[type=password], select {
+    background-color: #f0f2f5;
+    width: 330px;
+    padding-top: 14px;
+    padding-right: 16px;
+    padding-bottom: 14px;
+    padding-left: 16px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+.child2{
+    width: 400px;
+    
+
+}
+.child3{
+    margin-top: 10px;
+    display: inline-block;
+}
+.child4{
+    display: inline-block;
+}
+.father{
+    padding: 10px;
+    
+    background-color: white;
+    border-radius: 15px;
+    display: inline-block;
+    margin-left: 150px;
+}
+
+
+
+.forgot{
+    margin-top: 10px;
+    text-align: center;
+    color: blue;
+}
+
+.button {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 5px;
+    width: 330px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+ }
+.create{
+    background-color: chartreuse;
+    border: none;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    cursor: pointer;
+    margin-left:40px ;
+    margin-right: 40px;
+    border-radius: 5px;
+    
+ }
